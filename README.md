@@ -2,7 +2,7 @@
 
 Uma aplicação web minimalista e responsiva para cálculo rápido e preciso de custos e precificação de peças impressas em 3D. Desenvolvida para otimizar a gestão financeira da **MGA Holding**.
 
-**[Acesse o site Aqui!](https://mgabrazil.github.io/mga-3d-calculator/)**
+# **[Acesse o site Aqui!](https://mgabrazil.github.io/mga-3d-calculator/)**
 ---
 
 ##  Sobre o Projeto
@@ -22,7 +22,7 @@ O **MGA 3D Calculator** foi criado para eliminar estimativas manuais na precific
 
 ##  Tecnologias Utilizadas
 
-- **HTML5** — Estrutura semântica
+- **HTML5** — Estrutura semântica 
 - **CSS3** — Estilização minimalista e responsiva (sem frameworks externos)
 - **JavaScript (ES6+)** — Lógica de cálculo reativa em tempo real
 
@@ -31,6 +31,7 @@ O **MGA 3D Calculator** foi criado para eliminar estimativas manuais na precific
 ##  Estrutura do Projeto
 
 ```text
+
 mga-3d-calculator/
 ├── index.html   # Estrutura principal da página
 ├── styles.css   # Estilização visual minimalista
